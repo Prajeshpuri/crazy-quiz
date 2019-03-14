@@ -1,0 +1,50 @@
+.tf{
+	margin-top: 10px;
+	border: 1px solid black;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #383838;
+}
+.image{
+	display: block;
+	margin-top: 10px;
+	margin-left: 33px;
+	margin-right: 20px;
+
+}
+input{
+  text-align: center;
+  font-weight: bold;
+  font-family: "Lucida Handwriting";
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 7px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 3px #666;
+  transform: translateY(4px);
+}
+body{
+	background-color: #000000;
+}
+.sidenav {
+      padding-top: 20px;
+      background-color: #000000;
+      height: 100%;
+    }
