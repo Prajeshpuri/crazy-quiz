@@ -1,0 +1,14 @@
+.tf{
+	margin-top: 10px;
+	border: 1px solid black;
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	border-radius: 10px;
+	background-color: #383838;
+}
+
+body{
+	background-color: #000000;
+}

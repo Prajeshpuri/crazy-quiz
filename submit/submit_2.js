@@ -10,8 +10,8 @@ function submit()
 
             if( (tf1 == "B") && 
                 (tf2 == "R") && 
-        	    (tf3 == "A") && 
-        	    (tf4 == "I") &&
+        	(tf3 == "A") && 
+        	(tf4 == "I") &&
                 (tf5 == "N") )
         {
         	alert("CORRECT ANSWER");
